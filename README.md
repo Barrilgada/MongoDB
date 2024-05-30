@@ -27,7 +27,7 @@ Gabriel Cabreira Quirino<br>
   Passo 3: Abrir a pasta do repositório pela IDE<br>
   Passo 4: Instalar as bibliotecas<br>
    &nbsp;&nbsp; Passo 4.1: Abrir o terminal do VSC por exemplo<br>
-   &nbsp;&nbsp; Passo 4.2: Executar o comando *pip install requirements.txt* *<br>
+   &nbsp;&nbsp; Passo 4.2: Executar o comando *pip install -r requirements.txt* *<br>
    &nbsp;&nbsp; Passo 4.3: Caso a instação não for bem sucedida, executar os comandos:<br>
     &nbsp;&nbsp;*pip install pymongo*<br>
     &nbsp;&nbsp;*pip install emoji*<br>
