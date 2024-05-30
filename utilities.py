@@ -28,7 +28,7 @@ def aviso():
 
 def params_for_delete():
     print("===========================================")
-    print("Deseja deletar TODOS os alunos? (TRUNCATE)")
+    print("Deseja deletar TODOS os produtos? (TRUNCATE)")
     print("1 - Sim")
     print("2 - Deletar produto por ID")
     print("===========================================")
